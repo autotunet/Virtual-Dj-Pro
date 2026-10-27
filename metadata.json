@@ -1,0 +1,6 @@
+{
+  "name": "Virtual DJ Pro",
+  "description": "Professional dual-deck DJ mixer with Pioneer jog wheels, real-time audio effects, electronic percussion pads, beat sync, recording, mastering, and MIDI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

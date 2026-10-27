@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Virtual DJ Pro</string>
+    <string name="deck_a">DECK A</string>
+    <string name="deck_b">DECK B</string>
+    <string name="master">MASTER</string>
+    <string name="sync">SYNC</string>
+    <string name="cue">CUE</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="pitch">PITCH</string>
+    <string name="slip_mode">SLIP</string>
+    <string name="vinyl_mode">VINYL</string>
+    <string name="loop_in">IN</string>
+    <string name="loop_out">OUT</string>
+    <string name="auto_loop">AUTO LOOP</string>
+    <string name="hot_cue">HOT CUE</string>
+    <string name="pad_fx">PAD FX</string>
+    <string name="beat_jump">BEAT JUMP</string>
+    <string name="sampler">PERCUSSION</string>
+    <string name="vst_effects">VST FX</string>
+    <string name="record_session">REC SESSION</string>
+    <string name="cloud_library">CLOUD TRACKS</string>
+    <string name="local_tracks">LOCAL AUDIO</string>
+    <string name="midi_controller">MIDI CONTROLLER</string>
+    <string name="mastering_rack">MASTERING</string>
+</resources>
